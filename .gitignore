@@ -1,0 +1,5 @@
+/.idea/
+
+/.gradle/
+/build/
+/pi4j-example-minimal.iml
